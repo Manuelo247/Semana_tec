@@ -15,4 +15,3 @@ Codigo realizado en base al codigo de Gaby Sol no. 19-Filtro Gorro Tiara
 [GitHub](https://github.com/GabySol/OmesTutorials2020)
 =======
 
- Hola Mundo
