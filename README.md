@@ -3,12 +3,12 @@
  ## Filtro para cara 
 ***
 ## Autores    
-	-Juan Reyes
-	-Julián Madrid
-	-Jorge Cárdenas
-	-Manuel Ochoa
-	-Siddhartha López
-	-Stephanie Ruiz
+	Juan Reyes
+	Julián Madrid
+	Jorge Cárdenas
+	Manuel Ochoa
+	Siddhartha López
+	Stephanie Ruiz
 
 ## Dependencias necesarias
 ***
