@@ -34,7 +34,7 @@ Nota: se debe de corren en la carpeta en la que se encuentren los archivos.
 ```
     python3 filtro.py
 ```
-
-##Código de referencia
+## Código de referencia
+***
 Código realizado en base al código de Gaby Sol no. 19-Filtro Gorro Tiara
 [GitHub](https://github.com/GabySol/OmesTutorials2020)Proyecto_Sem
