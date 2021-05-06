@@ -21,9 +21,34 @@
 	*Siddhartha López
 >>>>>>> Stashed changes
 	*Stephanie Ruiz
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+# Semana Tec: El arte de programar
+ Filtro para cara
+=======
+# Semana Tec: El arte de programar
+ Filtro para cara
+
+>>>>>>> Stashed changes
+***
+##Autores    
+	*Juan Reyes
+	*Julian Madrid
+<<<<<<< Updated upstream
+	*Jorge Cárdenas
+	*Manuel Ochoa
+	*Siddhartha López
+=======
+	*Jorge Cárdenas
+	*Manuel Ochoa
+	*Siddhartha López
+>>>>>>> Stashed changes
+	*Stephanie Ruiz
 
 ##Librerias necesarias
-
+    *OpenCV
+    *Imutils
+    *Python3
 
 
 
