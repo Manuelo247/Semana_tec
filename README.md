@@ -21,7 +21,7 @@ Despues de clonar este repositorio, es necesario instalar:
     Link con los modelos utilizados:
     ```
         https://drive.google.com/drive/folders/1A5ECP3KaVRp9pwEEqLo6wU_LiVF5Fjr5?usp=sharing
-```
+    ```
 ### ¿Que hace?
         *El código trabaja como un filtro, poniendo en la cara del usiario una imagen, en este caso ha
 	programado con una imagen 	en especifico, sin embargo esta se puede cambiar ingresando al 
