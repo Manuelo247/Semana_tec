@@ -25,8 +25,9 @@ Despues de clonar este repositorio, es necesario instalar:
         https://drive.google.com/drive/folders/1A5ECP3KaVRp9pwEEqLo6wU_LiVF5Fjr5?usp=sharing
 ```
 ### ¿Que hace?
-        *El código trabaja como un filtro, poniendo en la cara del usiario una imagen, en este caso ha programado con una imagen 
-	en especifico, sin embargo esta se puede cambiar ingresando al archivo y cambiandola por la imagen deseada.
+        *El código trabaja como un filtro, poniendo en la cara del usiario una imagen, en este caso ha
+	programado con una imagen 	en especifico, sin embargo esta se puede cambiar ingresando al 
+	archivo y cambiandola por la imagen deseada.
 
 ## Uso
 ***
@@ -35,11 +36,6 @@ Nota: se debe de corren en la carpeta en la que se encuentren los archivos.
 ```
     python3 filtro.py
 ```
-
-
-
-
-
 
 ##Código de referencia
 Código realizado en base al código de Gaby Sol no. 19-Filtro Gorro Tiara
