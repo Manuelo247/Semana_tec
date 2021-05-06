@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Semana Tec: El arte de programar
 =======
  # Semana Tec: El arte de programar
