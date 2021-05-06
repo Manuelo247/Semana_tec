@@ -1,12 +1,13 @@
 # Semana Tec: El arte de programar
  Filtro para cara
+
 ***
 ##Autores    
 	*Juan Reyes
 	*Julian Madrid
-	*Jorge Cárdenas
+	*Jorge Cï¿½rdenas
 	*Manuel Ochoa
-	*Siddhartha López
+	*Siddhartha Lï¿½pez
 	*Stephanie Ruiz
 
 ##Librerias necesarias
@@ -14,6 +15,10 @@
 
 
 
-##Código de referencia
-Código realizado en base al código de Gaby Sol no. 19-Filtro Gorro Tiara
+##Cï¿½digo de referencia
+Cï¿½digo realizado en base al cï¿½digo de Gaby Sol no. 19-Filtro Gorro Tiara
 [GitHub](https://github.com/GabySol/OmesTutorials2020)
+=======
+
+ Hola Mundo
+
