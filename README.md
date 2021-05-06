@@ -2,5 +2,4 @@
  Proyecto_Sem
  Filtro para cara
 
- Hola Mundo
- 
+ Hola
