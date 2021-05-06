@@ -1,6 +1,6 @@
 
  # Semana Tec: El arte de programar
- ## Filtro para cara con foto
+ ## Filtro para cara 
 ***
 ## Autores    
 	*Juan Reyes
